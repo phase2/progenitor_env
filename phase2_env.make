@@ -20,3 +20,6 @@ projects[stage_file_proxy][type] = module
 projects[stage_file_proxy][subdir] = dev
 projects[stage_file_proxy][version] = 1.4
 
+projects[devel_image_provider][type] = module
+projects[devel_image_provider][subdir] = dev
+projects[devel_image_provider][version] = 1.x-dev
