@@ -3,10 +3,7 @@ core = 7.x
 
 projects[devel][type] = module
 projects[devel][subdir] = dev
-projects[devel][download][type] = git
-projects[devel][download][url] = http://git.drupal.org/project/devel.git
-projects[devel][download][branch] = 7.x-1.x
-projects[devel][download][revision] = b6b3441cac33086806d58361651b7223103df9aa
+projects[devel][version] = 1.4
 
 projects[masquerade][type] = module
 projects[masquerade][subdir] = dev

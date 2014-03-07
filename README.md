@@ -1,4 +1,4 @@
-# Phase2 Environment
+# Progenitor Environment
 
 This Stack module provides a recipe for an assemblage of development and
 environment management tools.
