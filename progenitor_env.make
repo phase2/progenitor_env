@@ -7,7 +7,7 @@ projects[devel][version] = 1.4
 
 projects[masquerade][type] = module
 projects[masquerade][subdir] = dev
-projects[masquerade][version] = 1.0-rc5
+projects[masquerade][version] = 1.0-rc7
 
 projects[environment_indicator][type] = module
 projects[environment_indicator][subdir] = dev
