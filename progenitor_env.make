@@ -15,7 +15,7 @@ projects[environment_indicator][version] = 2.2
 
 projects[stage_file_proxy][type] = module
 projects[stage_file_proxy][subdir] = dev
-projects[stage_file_proxy][version] = 1.4
+projects[stage_file_proxy][version] = 1.6
 
 projects[devel_image_provider][type] = module
 projects[devel_image_provider][subdir] = dev
