@@ -1,7 +1,7 @@
 # Progenitor Environment
 
-This Stack module provides a recipe for an assemblage of development and
-environment management tools.
+This [Progenitor Stack](http://github.com/phase2/progenitor) provides the
+recipe for a solid toolkit for development and environment management in Drupal.
 
 ## Use Cases
 
@@ -11,10 +11,6 @@ environment management tools.
 ## Usage
 
 * Download this stack with `drush make` for automatic processing of the makefile.
-
-## Maintainers
-
-* Adam Ross <aross@phase2technology.com>
 
 ## Keywords
 
