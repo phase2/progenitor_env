@@ -11,7 +11,7 @@ projects[masquerade][version] = 1.0-rc7
 
 projects[environment_indicator][type] = module
 projects[environment_indicator][subdir] = dev
-projects[environment_indicator][version] = 2.2
+projects[environment_indicator][version] = 2.6
 
 projects[stage_file_proxy][type] = module
 projects[stage_file_proxy][subdir] = dev
