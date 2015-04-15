@@ -21,5 +21,5 @@ projects[devel_image_provider][type] = module
 projects[devel_image_provider][subdir] = dev
 projects[devel_image_provider][version] = 1.x-dev
 
-projects[security_review][version] = 1.1
+projects[security_review][version] = 1.2
 projects[security_review][subdir] = dev
