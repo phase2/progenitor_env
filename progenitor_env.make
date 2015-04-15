@@ -3,7 +3,7 @@ core = 7.x
 
 projects[devel][type] = module
 projects[devel][subdir] = dev
-projects[devel][version] = 1.4
+projects[devel][version] = 1.5
 
 projects[masquerade][type] = module
 projects[masquerade][subdir] = dev
